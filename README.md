@@ -1,6 +1,10 @@
 # Jetpack Compose Login App
-Simple Login Application using the modern Android UI Tool Kit(Jetpack Compose)
+Simple Login Application using the modern Android UI Tool Kit(Jetpack Compose) 
 
+- [Setting up the Project](setting-up-the-project)
+- 
+    
+## Setting up the Project
 First of all download the latest version of the android studio to perfecly run this applicaiton once you   
 completed.
 In this we are using Android Studio Bumblebee | 2021.1.1 Patch 2, built on February 17, 2022.
