@@ -1,7 +1,7 @@
 # Jetpack Compose Login App
 Simple Login Application using the modern Android UI Tool Kit(Jetpack Compose) 
 
-- [Setting up the Project](setting-up-the-project)
+- [Setting up the Project](#setting-up-the-project)
 - 
     
 ## Setting up the Project
