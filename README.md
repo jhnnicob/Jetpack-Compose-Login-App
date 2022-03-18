@@ -3,9 +3,9 @@ Simple Login Application using the modern Android UI Tool Kit(Jetpack Compose)
 
 - [Setting up the Project](#setting-up-the-project)
 - [Preview the Application](#preview-the-application)
-    - [Using Android Studio Preview]
-    - [Using Emmulator]
-    - [Using Actual Device]
+    - [Using Android Studio Preview](#using-android-studio-preview)
+    - [Using Emmulator](#using-emmulator)
+    - [Using Actual Device](#using-actual-device)
 - [Create Login Screen](#create-login-screen)
 - [Create Register Screen](#create-register-screen)
 - [Link the two screen](#link-the-two-screen)
