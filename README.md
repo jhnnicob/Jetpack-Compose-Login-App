@@ -34,7 +34,11 @@ Now we set up all we need, click finish to start coding.
 ## Preview the Application    
 To preview your very first application without using an emulator or running in your device, just click Split at the top  
 right corner of the android studio.    
-![image](https://user-images.githubusercontent.com/10582037/158916947-bb3a501f-5374-4f13-ba34-2f4202f40c67.png)
+![image](https://user-images.githubusercontent.com/10582037/158916947-bb3a501f-5374-4f13-ba34-2f4202f40c67.png)  
+
+Click the Build & Refresh...(Crt+Shift+f5)
+![image](https://user-images.githubusercontent.com/10582037/158918195-8ae625fc-6785-4561-841e-51dcba030172.png)  
+
   
 ## Create Login Screen    
 ## Create Register Screen  
