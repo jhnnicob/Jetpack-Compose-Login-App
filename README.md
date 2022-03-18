@@ -32,6 +32,7 @@ The default language is Kotlin. We're leaving the Minimum SDK to its default whi
 Now we set up all we need, click finish to start coding.  
 
 ## Preview the Application    
+Now we have all we need to start our first android application.
 To preview your very first application without using an emulator or running in your device, just click Split at the top  
 right corner of the android studio.    
 ![image](https://user-images.githubusercontent.com/10582037/158916947-bb3a501f-5374-4f13-ba34-2f4202f40c67.png)  
